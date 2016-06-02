@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK/android_n22_finance"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/Epad2/android_framework/libs/droidText.0.4.jar"/>
+	<classpathentry kind="lib" path="libs/bcprov-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.4.jar"/>
+	<classpathentry exported="true" kind="src" path="/android_n22_finance"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
